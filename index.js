@@ -3,4 +3,4 @@
  main.remove();
 
 
-let newHeader= document.querySelector('h1#victory').innerHTML= "evan is the champion"; 
+let newHeader= document.querySelector('h1#victory'); 
