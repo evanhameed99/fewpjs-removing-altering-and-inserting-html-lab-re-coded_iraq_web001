@@ -5,4 +5,4 @@
 let newHeader = document.createElement('h1');
 document.body.appendChild(h1);
 newHeader.classList.add('victory');
-newheader= document.querySelector('h1#victory').innerHTML= "evan is the champion ";
+newheader= document.querySelector('h1#victory').textContent= "evan is the champion ";
